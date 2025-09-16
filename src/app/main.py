@@ -11,7 +11,7 @@ import asyncio
 from pathlib import Path
 
 # Import the AI service we created earlier
-from ai_service import ai
+from ai.ai_service import ai
 
 # Initialize FastAPI app
 app = FastAPI(title="Face Recognition Attendance System", version="1.0.0")

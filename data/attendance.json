@@ -1,15 +1,50 @@
 {
   "Saranga": {
     "2025-09-08": "Present",
-    "2025-09-16": "Present"
+    "2025-09-16": "Present",
+    "2025-09-19": "Present",
+    "2025-09-20": "Present",
+    "2025-10-30": "Present"
   },
   "Gay": {
     "2025-09-16": "Present"
   },
   "Debo": {
-    "2025-09-16": "Present"
+    "2025-09-16": "Present",
+    "2025-09-19": "Present",
+    "2025-09-20": "Present",
+    "2025-10-30": "Present"
   },
   "deb": {
-    "2025-09-16": "Present"
+    "2025-09-16": "Present",
+    "2025-09-19": "Present"
+  },
+  "dhrupad": {
+    "2025-09-19": "Present"
+  },
+  "gugjug": {
+    "2025-09-19": "Leave"
+  },
+  "dhruvo": {
+    "2025-09-19": "Present"
+  },
+  "saap": {
+    "2025-09-19": "Present"
+  },
+  "amlan": {
+    "2025-09-20": "Present"
+  },
+  "Rajashree": {
+    "2025-09-20": "Present"
+  },
+  "Deb": {
+    "2025-09-20": "Present",
+    "2025-10-30": "Present"
+  },
+  "Kanchan": {
+    "2025-10-30": "Present"
+  },
+  "Barga": {
+    "2025-10-30": "Present"
   }
 }
